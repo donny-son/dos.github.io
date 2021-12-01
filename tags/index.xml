@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dongook Son - Data Scientist</title>
-    <link>https://donny-son.github.io/tags/</link>
+    <link>https://donny-son.github.io/resume/tags/</link>
     <description>Recent content in Tags on Dongook Son - Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>utf-8</language><atom:link href="https://donny-son.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>utf-8</language><atom:link href="https://donny-son.github.io/resume/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
