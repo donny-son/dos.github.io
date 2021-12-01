@@ -8,9 +8,39 @@
 </span></center>
 <center><span style="font-family:Didot; font-size:1.5em;">Seoul, South Korea</span></center>
 
-<span style="font-family:Didot; font-size:2em;">Intro</span>
-> * Data Scientist, Machine Learning Engineer, Tech Evangelist, Hacker
-> * Student of bleeding-edge technologies that improve organization workflow and efficiency.
+<span style="font-family:Didot; font-size:2em;">Introduction & Vision</span>
+> Data Scientist obsessed with hardware and software integration on scientific computing. Speciallizes on data science infrastructure and data engineering on medical data. Heavily trained student of Mathematics and Statistics with deep interest and curiosity in Computer Science. Welcomes and enjoys implementing new tools and frameworks that can improve workflow productivity.
+> I’m always genuinely interested in new hardware and software tecnologies and try to bake them into my workflow or day to day tasks. Currently I’m interested in Kubernetes and Metal Tensorflow(Apple) for scaling Data Science research using multiple M1 chips.
+
+<span style="font-family:Didot; font-size:2em;">Professional Experience</span>
+<br />
+- - - -
+
+*Data Engineer/AI Researcher* | **Samsung Medical Center, Ophthalmology** July 2020 – Present
+> Created multiple data extracting software to accumulate mass amounts(50GBs xml, 400GBs jpg data) of patient records/ocular scans for data analysis/AI research for Opthalmology research led by Dr. Jongchul Han. Experienced app containerization and cross-platform builds due to security issues for on-premise networks while working remotely. Built fundus scan image preprocessing software using Go. Completed research and co-authored **Border Tissue Morphology is Associated with the Pattern of Visual Field**(acceptance pending). Converted and upgraded a mid-performance workstation(CUDA enabled) as a virtual research lab with a dedicated NAS for instant sharing and usage of preprocessed data. Currently conducting research on following projects.
+> - Longitudinal analysis of health screening data, intraocular pressure and glaucoma risk.
+> - Multiple instance learning using Resnet50 architecture for unintrusive health pre-screening through imagery data(OCT scans).
+
+
+*Big Data(Spatial) Engineer* | **National Cancer Center, Air-health Research Team** February 2021 – Present
+> Currently working on transparent geodatabase(PostGIS) creation on AWS with automated data collection using govermental OpenAPIs for air quality and health research team led by Dr. Sunyoung Kim. Containerized and debugged existing multiprocessing geostatistics calculation software(R). Other researchers were able to gain insights and comfirm hypothesis from statistics dervied from this software. Introduced and implemented co-research environment with Notion. Modified numerous data standardization processes.
+
+
+*HPC Researcher/System Administrator* |  **Yonsei Graduate School of Statistics and Data Science, BK21 Research Group** August 2021 – Present
+> Funded by BK21 Educational Research Group for Big data and Data Science, I was able to design/configure/manage/operate High Performance Data Science servers(High RAM, vRAM cloud instances) grateful to academic advisor Prof. Sangun Park and Prof. Ikhoon Jin. Researched numerous HPC systems like Nero, Niagara, Great Lakes and their operations framework such as SLURM, Kubernetes. Implemented optimal JupyterHub, RStudio Server service for all Statistics and Data Science graduate researchers.
+
+
+*HPC System Administrator* |  **Yonsei Graduate School of Business, Finance Lab** January 2021 – July 2021
+> Configured and managed High Performance Computing server for supply-chain finance research team led by Prof. Junkyeong Auh. Introduced and educated researchers on DevOps concepts such as app containerization, version control and test-driven-development which solved numerous works in my machine problems. Implemented Graph database modeling(Neo4j) from relational supply-chain datasets to apply network analysis.
+
+
+*Data Engineer* | **Bagstation Inc.** January 2020 – July 2020
+> Data development for accurate prediction of court auction product prices. Worked with several OpenAPIs and structured various relational data models. Built and modified custom web crawler with Selenium framework(Python) for Court Auction sites.
+
+
+*Imagery Intelligence(GIS) Analyst/Interpreter* | **Republic of Korea Army Special Warfare Command, 11th Brigade** November 2017 – July 2019
+> Honorable discharge after 20 months of service. During this time I successfully completed 3 weeks of Airborne training(#826) at Special Warfare School with two fractured ribs. Performed numerous GIS analysis for indisclosed locations and operated as interpreter on combined training periods. On completion of a 5 week interpreter training at Special Warfare Command, conducted 3+ combined special ops training with U.S. counterparts including 1st Battalion of 1st Special Forces Group.
+
 
 <span style="font-family:Didot; font-size:2em;">Academic Experience</span>
 <br />
@@ -18,7 +48,6 @@
 
 **Yonsei University Graduate School of Statistics and Data Science**              March 2020 - Feb 2022(Expected)
    
-> 1. **Field of Study**: Data Science and Machine Learning Operations(DataOps & MLOps), Multi-dimensional Convolutional Neural Networks
 > 1. **Cumulative GPA**: 4.03 / 4.30
 > 1. **Course Work**: 
 >     - *Mathematics & Statistics*: Spatiotemporal Analysis, Statistical Learning Theory, Linear Models, Bayesian Statistics, Multivariate Analysis
@@ -45,41 +74,8 @@
 > 1. **Honors and Awards**: 
 >     - Awarded academic scholarship (2013)
 
-<span style="font-family:Didot; font-size:2em;">Professional Experience</span>
-<br />
-- - - -
 
-*Data/Development Operations, Developer* | **National Cancer Center, Air-health Research Team** February 2021 – Present
-> - Parallel computing software maintanence of geographical data(R)
-> - Centralization and standardization of geographical data via PostGIS.
-> - Automation of ETL pipelines of geographical datalakes via serverless architecture(AWS Lambda, Athena, Glue).
-
-> *Reference: Seonyoung Kim, PhD*
-
-*Server Management / Research Operation Consultant* |  **Yonsei Graduate School of Business, Finance Lab** January 2021 – July 2021
-> - Hardware, software and operations setup/maintanence for supply-chain financial data analysis research team. 
-> - Educated researchers and professor of DevOps(containerization, version control, TDD, etc) concepts and its necessity and applications on Machine Learning research.
-> - Introduced novel knowledge organization software(Obsidian) in order to pass on knowledge as a graph.
-
-> *Reference: Junkyeong Auh, PhD*
-
-*SW Development & Deep Learning, Statistician* | **Samsung Medical Center, Ophthalmology Department** July 2020 – Present
-> - Automation software(Python) for extracting data from clinical reports
-> - Statistical analysis and visualization of visual field data(R)
-> - Fundus photography preprocessing pipeline(Golang)
-> - Multi-dimensional Convolutional Neural Network research(Keras - Tensorflow)
-
-> *Reference: Jongcheol Han, M.D.*
-
-*Data Engineer* | **Bagstation Inc.** January 2020 – July 2020
-> - Crawlers for Court Auction data(Python)
-> - Data pipelines for Open APIs(Python)
-> - Court Auction optimal price modeling(R, Python)  
-
-> *Reference: Mr.Lee Seunghong, Mr.Kim Seongam*
-
-
-<span style="font-family:Didot; font-size:2em;">Technical Experience - Personal</span>
+<span style="font-family:Didot; font-size:2em;">Projects - Personal</span>
 <br />
 - - - -
 
@@ -103,40 +99,25 @@
 > - [Don's Thoughts](https://donny-son.github.io/): A personal blog using [Hugo](https://gohugo.io/) running on GitHub Pages. Customized CSS to add personal taste.
 
 
-<span style="font-family:Didot; font-size:2em;">Military Experience</span>
-<br />
-- - - -
-**Honorable Discharge(Sergeant)**
-> * Airborne Training: #826, Special Warfare School(ROK SWS)
-> * Interpreter Training: 5-week Special Ops interpreter training, Special Warfare Command(ROK SWK)
-> * Combined CA-CMO Training: 11th BDE(ROK SWK) - 1st BTN(1st SFG), 11th BDE
-
-<span style="font-family:Didot; font-size:2em;">Programming Languages</span>
+<span style="font-family:Didot; font-size:2em;">Skills</span>
 <br />
 - - - -
 
-   > * Main Programming Languages: 
-   >   - Python: 3+ years 
-   >   - R: 5+ years 
-   >   - Go: 1+ years
-   >   - Shell: 1+ years
-   > * Main OS: MacOS, Linux(RHEL(CentOS), Ubuntu)
-
-
-<span style="font-family:Didot; font-size:2em;">General Skills/Tools</span>
-<br />
-- - - -
-
-> * Language Proficiency: Korean(Native), English(Near-Native)
-> * Search Engine: DuckDuckGo, Google
-> * Database Systems: RDB(PostgreSQL, MySQL), GraphDB(Neo4j)
-> * Cloud Frameworks: GCP, AWS, NCP
-> * Dev Tools: Alacritty, NeoVim, Tmux, VSCode, Conda(Mamba), Slack
-> * Other Tools: Karabiner
-> * Documentation & Teamwork Related: Obsidian, Notion, Draw.io
+   > * Language Proficiency:
+   >   - Korean(Native), English(Near-Native)
+   > * Well experienced: 
+   >   - Python, R, Shell
+   >   - Jupyter, Keras, CUDA
+   >   - Naver Cloud Platfrom, AWS
+   >   - MacOS, Linux(Ubuntu)
+   > * Learning: 
+   >   - Go, Cypher
+   > * Database Systems: 
+   >   - RDB(PostGres, PostGIS), GraphDB(Neo4j)
 
 - - - -
 
-> **Address:**  92 Yeoksam-ro 12, Gangnam-gu, Seoul, Korea  
-> **Phone:**    +82-10-2668-8138  
+> **Address:**  Gangnam-gu, Seoul, Korea
+> **Phone:**    +82-10-2668-8138
+
 <center style="font-style:oblique">This CV was written in markdown</center>
